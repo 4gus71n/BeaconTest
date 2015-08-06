@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/pre-dexed/debug/classes-ccd8409fa54f05130c48946150aa8bcc6e873449.jar" />
+    </item>
+    <item
+        jar="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b8cdb27c00f7a638f0e1e5953c2d98259c0adf7e.jar" />
+    </item>
+    <item
+        jar="/home/astinx/dev/android_workspace/BeaconTest/app/libs/estimote-sdk-preview.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f1ef6b1d6ba4a1d982cf6bf86314a4f172a8ee">
+        <dex dex="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/pre-dexed/debug/estimote-sdk-preview-c4f77fffebe5e78ed2ff1aa3b7400ebe0f146bb5.jar" />
+    </item>
+    <item
+        jar="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/pre-dexed/debug/classes-3cc04f665d73c8e865319b61ce4d9479d8bb2db2.jar" />
+    </item>
+    <item
+        jar="/home/astinx/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/pre-dexed/debug/ormlite-android-4.48-794070cf1643210c442223539c75b9b07276927a.jar" />
+    </item>
+    <item
+        jar="/home/astinx/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/pre-dexed/debug/ormlite-core-4.48-a1f20216826055ff6a2613be8d720a5ea3e57bc7.jar" />
+    </item>
+    <item
+        jar="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/pre-dexed/debug/classes-c4e48072354e8153ca19549ae86fb994d621f630.jar" />
+    </item>
+    <item
+        jar="/home/astinx/dev/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/astinx/dev/android_workspace/BeaconTest/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-2060b60ebfdd33e4ca275d518c69f8b8affe5826.jar" />
+    </item>
+
+</items>
